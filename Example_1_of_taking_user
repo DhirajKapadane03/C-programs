@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main(int argc, char *argv[])
+{
+	int marks;
+	printf("Enter your marks:");
+	scanf("%d",&marks);
+	
+	printf("your marks is: %d", marks);
+	return 0;
+}
