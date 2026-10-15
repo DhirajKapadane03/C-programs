@@ -8,3 +8,21 @@ int main()
 	return 0;
 	
 }
+
+// problem 2 area of rectangle part 2
+#include<stdio.h>
+int main()
+{ 
+   int length;
+   int breath;
+   
+   printf("enter your length=");
+   scanf("%d", &length);
+   
+   printf("enter your breath=");
+   scanf("%d", &breath);
+   
+   printf("the area of reactangle is %d",     length*breath);
+   
+   return 0;
+}
