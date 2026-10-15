@@ -1,1 +1,10 @@
-djdfjfu
+// problem 1 area of rectangle 
+#include<stdio.h>
+int main()
+{
+	int length=3;
+	int breath = 9;
+	printf("the area of the rectangle=%d", length*breath);
+	return 0;
+	
+}
