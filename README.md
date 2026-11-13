@@ -1,2 +1,0 @@
-# C-program-
-"My C language practice programs"
